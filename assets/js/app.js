@@ -138,7 +138,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
               </div>
-                <form name="form1" action="https://formcarry.com/s/BywEPAJNb" method="POST" accept-charset="UTF-8" >
+                <form name="form1" action="https://formcarry.com/s/CDN9CnfQRTF" method="POST" accept-charset="UTF-8" >
                   <input id="name" type="text" name="name" placeholder="Your Name" required/>
                   <input id="email" type="email" name="email" placeholder="Email Address" required/>                  
                   <textarea id="textArea" name="message" placeholder="Type your Message" required></textarea>
@@ -157,7 +157,7 @@ let footer = $(`
 
     
 
-    
+    <div class="rounded-social-buttons tag">
 
     <a class="social-button linkedin" href="www.linkedin.com/in/sijia-chloe-hu" target="_blank" >
     <!-- svg code for linkedin icon -->
@@ -168,8 +168,6 @@ let footer = $(`
         <circle cx="4" cy="4" r="2"></circle>
       </svg>
     </a>
-
-
 
     <a class="social-button github" href="https://github.com/Sijia-Hu-1158997" target="_blank">
     <!-- SVG code for Github icon -->

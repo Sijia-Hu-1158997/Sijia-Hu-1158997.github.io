@@ -157,7 +157,7 @@ let footer = $(`
 
     
 
-    <div class="rounded-social-buttons tag">
+    <div class="rounded-social-buttons tag" align="center">
 
     <a class="social-button linkedin" href="www.linkedin.com/in/sijia-chloe-hu" target="_blank" >
     <!-- svg code for linkedin icon -->

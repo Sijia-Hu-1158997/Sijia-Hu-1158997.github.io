@@ -6,21 +6,21 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Teacher",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/jb.jepg",
     place: "Reggio Bambini Private Preschool & Infant Centre",
     time: "(Aug, 2022 - present)",
     desp: "<li>Cultivated trusted and respectful relationships with parents and colleagues.</li> <li>Engaged in continuous reflection on team practices, embracing change, actively seeking improvement opportunities, and implementing innovative solutions to boost productivity and effectiveness.</li>",
   },
   {
     title: "Teacher",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    cardImage: "assets/images/experience-page/millies.png",
     place: "Millie's House Basin Reserve",
     time: "(Aug, 2021 - Aug, 2022)",
     desp: "<li>Mentored and supported a new team member</li><li>Effectively managed and addressed parental concerns and complaints, showcasing strong communication and conflict resolution skills.</li><li>Reviewed student progress and feedback to identify trends and patterns, summarizing findings to inform ongoing curriculum development and classroom practices.</li>",
   },
   {
     title: "Teacher",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/experience-page/kiwikids.png",
     place: "Kiwi Kids Childcare Centre",
     time: "(Nov, 2020 - Aug, 2021)",
     desp: "Conducted a wide range of engagements within a diverse educational setting, catering to the needs of children from various backgrounds and learning styles.",

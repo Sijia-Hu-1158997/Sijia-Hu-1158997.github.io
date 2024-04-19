@@ -5,25 +5,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
+    title: "Teacher",
     cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    place: "Reggio Bambini Private Preschool & Infant Centre",
+    time: "(Aug, 2022 - present)",
+    desp: "<li>Cultivated trusted and respectful relationships with parents and colleagues.</li> <li>Engaged in continuous reflection on team practices, embracing change, actively seeking improvement opportunities, and implementing innovative solutions to boost productivity and effectiveness.</li>",
   },
   {
-    title: "Student Developer",
+    title: "Teacher",
     cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    place: "Millie's House Basin Reserve",
+    time: "(Aug, 2021 - Aug, 2022)",
+    desp: "<li>Mentored and supported a new team member</li><li>Effectively managed and addressed parental concerns and complaints, showcasing strong communication and conflict resolution skills.</li><li>Reviewed student progress and feedback to identify trends and patterns, summarizing findings to inform ongoing curriculum development and classroom practices.</li>",
   },
   {
-    title: "Research Intern",
+    title: "Teacher",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    place: "Kiwi Kids Childcare Centre",
+    time: "(Nov, 2020 - Aug, 2021)",
+    desp: "Conducted a wide range of engagements within a diverse educational setting, catering to the needs of children from various backgrounds and learning styles.",
   },
 ];
 
@@ -62,29 +62,29 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
+    title: "Administration and department supervisor",
     cardImage: "assets/images/experience-page/1.jpg",
+    place: "Club Program Office of XJTLU",
+    time: "(2015 - 2016)",
     description:
       "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "Volunteer teacher",
+    cardImage: "assets/images/experience-page/1.jpg",
+    place: "Green Power Now Public Welfare Project",
+    time: "(Nov - Dec, 2015)",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "In Suzhou Local Middle School, taught environmental protection lessons for children to develop their bilingual ability in Mandarin and English, and increase their awareness of sustainability.",
   },
   {
-    title: "PClub Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/3.jpg",
+    title: "Team leader",
+    cardImage: "assets/images/experience-page/1.jpg",
+    place: "The 6th Business Simulation Competition",
+    time: "(Nov - Dec, 2015)",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
-  },
-  {
-    title: "Hakin-Codes",
-    cardImage: "assets/images/experience-page/4.jpg",
-    description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
-  },
+      "Participated in planning market strategies, discussed, promoted, and sold designated products and liaised with the company’s logistics department to ship the products.",
+  }
 ];
 
 const showCards = () => {

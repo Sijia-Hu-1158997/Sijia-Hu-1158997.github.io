@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Teacher",
-    cardImage: "assets/images/experience-page/jb.jepg",
+    cardImage: "assets/images/experience-page/rb.jepg",
     place: "Reggio Bambini Private Preschool & Infant Centre",
     time: "(Aug, 2022 - present)",
     desp: "<li>Cultivated trusted and respectful relationships with parents and colleagues.</li> <li>Engaged in continuous reflection on team practices, embracing change, actively seeking improvement opportunities, and implementing innovative solutions to boost productivity and effectiveness.</li>",
@@ -63,11 +63,12 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "Administration and department supervisor",
-    cardImage: "assets/images/experience-page/1.jpg",
+    cardImage: "assets/images/experience-page/cpo.jpeg",
     place: "Club Program Office of XJTLU",
     time: "(2015 - 2016)",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Be on duty in Service Centre for rental service and club colsultations.",
+    href: "https://engage.xjtlu.edu.cn/en/topic/clubprogram_office",
   },
   {
     title: "Volunteer teacher",
@@ -81,7 +82,7 @@ const volunteershipcards = [
     title: "Team leader",
     cardImage: "assets/images/experience-page/1.jpg",
     place: "The 6th Business Simulation Competition",
-    time: "(Nov - Dec, 2015)",
+    time: "(2015)",
     description:
       "Participated in planning market strategies, discussed, promoted, and sold designated products and liaised with the company’s logistics department to ship the products.",
   }

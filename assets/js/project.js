@@ -16,17 +16,25 @@ const projects = [
   {
     title: "Permaculture Web App",
     cardImage: "assets/images/project-page/permaculture.png",
-    description: "A role based club system.",
+    description: "A role based club system with complex functions.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "http://hexadec.pythonanywhere.com",
     Githublink: "https://github.com/LUMasterOfAppliedComputing2024S1/COMP639S1_Group_I",
+  },
+  {
+    title: "Biosecurity Web App",
+    cardImage: "assets/images/project-page/bio.png",
+    description: "A role based club system.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Previewlink: "http://husijia1158997.pythonanywhere.com/",
+    Githublink: "https://github.com/Sijia-Hu-1158997/biosecurity",
   },
 ];
 
 // function for rendering project cards data
 const showCards = () => {
   let output = "";
-  projects.forEach(({ title, cardImage, Previewlink, Githublink }) => {
+  projects.forEach(({ title, cardImage, description, Previewlink, Githublink }) => {
     output += `       
         <div class="column skill-card card" style="margin: 15px"data-aos="zoom-in-up" data-aos-easing="linear" data-aos-delay="300" data-aos-duration="600" >
           <div class="wrapper" style="background: url(${cardImage}) center / cover no-repeat;">
@@ -36,6 +44,7 @@ const showCards = () => {
               <div class="content">
               <div class="title-div">
                 <h1 class="title"><a href="#">${title}</a></h1>
+                <h3>${description}</h3>
                 </div>
             <ul class="menu-content"><br>
                   <li><a href="${Previewlink}" class="social-icon"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="25" viewBox="0 0 30 28" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-monitor"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg></a></li>

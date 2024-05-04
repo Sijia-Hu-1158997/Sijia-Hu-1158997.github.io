@@ -91,7 +91,7 @@ const volunteershipcards = [
 const showCards = () => {
   let output = "";
   volunteershipcards.forEach(
-    ({ title, cardImage, description }) =>
+    ({ title, cardImage, place, time, description }) =>
       (output += `        
       <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
       

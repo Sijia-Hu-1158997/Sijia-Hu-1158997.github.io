@@ -93,14 +93,14 @@ const showCards = () => {
   volunteershipcards.forEach(
     ({ title, cardImage, place, time, description }) =>
       (output += `        
-      <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
+      <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 850px;width:400px">
       
       <img src="${cardImage}" height="250" width="65" class="card-img" style="border-radius:10px" alt="">
       <div class="content">
-          <h2 class="volunteerTitle">${title}</h2><br>
+          <h2 class="volunteerTitle">${title}</h2>
           <p class="meta">
             <span class="pre-heading">${place}</span><br>
-            <span class="author">${time}</span>
+            <h5><span class="author">${time}</span></h5>
           </p>
           <p class="copy">${description}</p></div>
       </div>

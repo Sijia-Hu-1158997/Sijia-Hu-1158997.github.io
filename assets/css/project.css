@@ -165,7 +165,7 @@ a:hover {
   }
 }
 
-.card .menu-content {
+.card 
   list-style-type: none;
   position: absolute;
   right: 0;
@@ -378,7 +378,8 @@ ul {
 
 .menu-content {
   margin-right: 10px;
-  margin-top: 1rem;
+  /* margin-top: 1rem; */
+  margin-top: -35px;
 }
 
 .social-icon svg:hover {

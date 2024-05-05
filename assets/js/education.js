@@ -68,6 +68,8 @@ AOS.init();
 //   },
 // ];
 
+
+// add certificate
 const experience = [
   {
     img: "assets/images/education-page/c1.png",

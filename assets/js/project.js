@@ -15,8 +15,8 @@ const projects = [
     
   },
   {
-    title: "Permaculture Web App",
-    description: "A role based club system with different role access.",
+    title: "Club System Web App",
+    description: "A role based club system.",
     cardImage: "assets/images/project-page/permaculture.png",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "http://hexadec.pythonanywhere.com",

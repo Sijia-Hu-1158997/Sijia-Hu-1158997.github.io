@@ -72,7 +72,7 @@ const volunteershipcards = [
   },
   {
     title: "Volunteer teacher",
-    cardImage: "",
+    cardImage: "assets/images/experience-page/green.jpg",
     place: "Green Power Now Public Welfare Project",
     time: "(Nov - Dec, 2015)",
     description:
@@ -80,7 +80,7 @@ const volunteershipcards = [
   },
   {
     title: "Team leader",
-    cardImage: "",
+    cardImage: "assets/images/experience-page/competition.jpg",
     place: "The 6th Business Simulation Competition",
     time: "(2015)",
     description:

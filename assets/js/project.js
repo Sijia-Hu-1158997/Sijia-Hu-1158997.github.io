@@ -7,16 +7,16 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Shopping Web App",
-    description: "Ongoing project that will be updated soon.",
-    cardImage: "",
+    description: "A shopping web app with complex functions.",
+    cardImage: "assets/images/project-page/agrihire.png",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "http://agrihire.pythonanywhere.com/",
+    Githublink: "https://github.com/LUMasterOfAppliedComputing2024S1/COMP639S1_Project_2_Group_I",
     
   },
   {
     title: "Permaculture Web App",
-    description: "A role based club system with complex functions.",
+    description: "A role based club system with different role access.",
     cardImage: "assets/images/project-page/permaculture.png",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "http://hexadec.pythonanywhere.com",

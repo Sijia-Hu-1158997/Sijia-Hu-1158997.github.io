@@ -53,9 +53,13 @@ document.addEventListener("DOMContentLoaded", () => {
 </div>`
 
         /* adding style to stylesheet */
-        document.styleSheets[0].addRule(`.el:nth-child(${index + 1}) .el__bg:before`, `background-image: url("${background_image}");`);
 
-      });
+        document.styleSheets[0].addRule(`.el:nth-child(${index + 1}) .el__bg:before`, `
+        background-image: url("${background_image}");
+        background-size: cover;
+        background-position: center center;
+      `);
+    });
 
     travelSummary.innerHTML = output;
 

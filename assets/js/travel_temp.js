@@ -55,11 +55,12 @@ document.addEventListener("DOMContentLoaded", () => {
         /* adding style to stylesheet */
 
         document.styleSheets[0].addRule(`.el:nth-child(${index + 1}) .el__bg:before`, `
-        background-image: url("${background_image}");
-        background-size: cover;
-        background-position: center center;
-      `);
-    });
+          background-image: url("${background_image}");
+          background-size: contain;
+          background-position: center center;
+          background-repeat: no-repeat;
+        `);
+      });
 
     travelSummary.innerHTML = output;
 

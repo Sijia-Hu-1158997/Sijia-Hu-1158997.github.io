@@ -50,12 +50,6 @@ document.addEventListener("DOMContentLoaded", () => {
             </div>
         </div>
     </div>
-    <div class="el__index">
-        <div class="el__index-back">${index + 1}</div>
-        <div class="el__index-front">
-            <div class="el__index-overlay" data-index="${index + 1}">${index + 1}</div>
-        </div>
-    </div>
 </div>`
 
         /* adding style to stylesheet */

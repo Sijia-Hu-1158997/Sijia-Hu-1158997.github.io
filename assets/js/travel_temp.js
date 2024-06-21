@@ -5,29 +5,29 @@ document.addEventListener("DOMContentLoaded", () => {
   // json variable for injecting html into DOM
   const travel_data = [
     {
-      day: "Day 1",
-      description: "description",
-      background_image: "assets/images/travel/trip1/street.jpg"
+      day: "Travel",
+      description: "Travel fuels my love for planning journeys and embraces my curiosity for the unknown. My most impressive journey was my trip to Japan, where I discovered different ways of living and found my passion for traveling. I eagerly look forward to future exciting adventures around the world.",
+      background_image: "assets/images/travel/trip1/travel.jpg"
     },
     {
-      day: "Day 2",
-      description: "description",
-      background_image: "assets/images/travel/trip1/qutub_minar.jpg"
+      day: "Hiking",
+      description: "Hiking is my favorite outdoor activity, allowing me to explore nature's beauty and challenge myself physically. I enjoy the serenity of the mountains, the fresh air, and the breathtaking views. I'm always ready for the next adventure!",
+      background_image: "assets/images/travel/trip1/hike.jpg"
     },
     {
-      day: "Day 3",
-      description: "description",
-      background_image: "assets/images/travel/trip1/lotus_temple.jpg"
+      day: "Cat",
+      description: "Here is my cat Luna, a foodie who loves to eat and sleep. She is a playful and affectionate companion, always by my side. I love her dearly and enjoy spending time with her.",
+      background_image: "assets/images/travel/trip1/cat.heic"
     },
     {
-      day: "Day 4",
-      description: "description",
-      background_image: "assets/images/travel/trip1/old_fort.jpg"
+      day: "Baking",
+      description: "I love cooking and baking desserts, always excited to try new recipes. I find tons of joy in creating delicious treats and sharing them with friends and family. Making cream cakes is my favorite, and I enjoy experimenting with different decorations to create unique birthday cakes for my loved ones. I also enjoy making other desserts, like tiramisu.",
+      background_image: "assets/images/travel/trip1/cake.heic"
     },
     {
-      day: "Day 5",
-      description: "description",
-      background_image: "assets/images/travel/trip1/red_fort.jpg"
+      day: "Leather work",
+      description: "I'm deeply passionate about leatherwork, reveling in the creative process of designing and crafting each piece from scratch. I thrive on solving the challenges it presents, turning obstacles into opportunities for innovation. So far, I've crafted wallets, tissue boxes, watch straps, AirTag holders, and handbags. I'm also delving into the art of leather carving, steadily progressing towards mastering this intricate skill.",
+      background_image: "assets/images/travel/trip1/leather.jpg"
     }
   ];
 

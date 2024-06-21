@@ -7,22 +7,22 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       day: "Travel",
       description: "Travel fuels my love for planning journeys and embraces my curiosity for the unknown. My most impressive journey was my trip to Japan, where I discovered different ways of living and found my passion for traveling. I eagerly look forward to future exciting adventures around the world.",
-      background_image: "assets/images/travel/trip1/travel.jpg"
+      background_image: "assets/images/travel/trip1/travel.JPG"
     },
     {
       day: "Hiking",
       description: "Hiking is my favorite outdoor activity, allowing me to explore nature's beauty and challenge myself physically. I enjoy the serenity of the mountains, the fresh air, and the breathtaking views. I'm always ready for the next adventure!",
-      background_image: "assets/images/travel/trip1/hike.jpg"
+      background_image: "assets/images/travel/trip1/hike.JPG"
     },
     {
       day: "Cat",
       description: "Here is my cat Luna, a foodie who loves to eat and sleep. She is a playful and affectionate companion, always by my side. I love her dearly and enjoy spending time with her.",
-      background_image: "assets/images/travel/trip1/cat.heic"
+      background_image: "assets/images/travel/trip1/cat.png"
     },
     {
       day: "Baking",
       description: "I love cooking and baking desserts, always excited to try new recipes. I find tons of joy in creating delicious treats and sharing them with friends and family. Making cream cakes is my favorite, and I enjoy experimenting with different decorations to create unique birthday cakes for my loved ones. I also enjoy making other desserts, like tiramisu.",
-      background_image: "assets/images/travel/trip1/cake.heic"
+      background_image: "assets/images/travel/trip1/cake.png"
     },
     {
       day: "Leather work",
@@ -50,12 +50,12 @@ document.addEventListener("DOMContentLoaded", () => {
             </div>
         </div>
     </div>
-    <div class="el__index">
-        <div class="el__index-back">${index + 1}</div>
-        <div class="el__index-front">
-            <div class="el__index-overlay" data-index="${index + 1}">${index + 1}</div>
-        </div>
-    </div>
+    // <div class="el__index">
+    //     <div class="el__index-back">${index + 1}</div>
+    //     <div class="el__index-front">
+    //         <div class="el__index-overlay" data-index="${index + 1}">${index + 1}</div>
+    //     </div>
+    // </div>
 </div>`
 
         /* adding style to stylesheet */

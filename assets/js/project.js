@@ -6,21 +6,29 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Shopping Web App",
-    description: "A shopping web app with complex functions.",
-    cardImage: "assets/images/project-page/agrihire.png",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "http://agrihire.pythonanywhere.com/",
-    Githublink: "https://github.com/LUMasterOfAppliedComputing2024S1/COMP639S1_Project_2_Group_I",
+    title: "Nimpression Web App",
+    description: "Intern project. Use React, Node.js, Express, Tailwind, and MongoDB.",
+    cardImage: "assets/images/project-page/nimpression.png",
+    // tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Githublink: "https://github.com/Sijia-Hu-1158997/nimpression_display",
     
   },
   {
-    title: "Club System Web App",
-    description: "A role based club system.",
+    title: "Agrihire Shopping Web App",
+    description: "Group project. Use Python with Flask, HTML, CSS, JavaScript, and MySQL.",
+    cardImage: "assets/images/project-page/agrihire.png",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "http://agrihire.pythonanywhere.com/",
+    Githublink: "https://github.com/Sijia-Hu-1158997/agrihire_shopping_web",
+    
+  },
+  {
+    title: "Permaculture Web App",
+    description: "Group project. Use Python with Flask, HTML, CSS, and MySQL.",
     cardImage: "assets/images/project-page/permaculture.png",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "http://hexadec.pythonanywhere.com",
-    Githublink: "https://github.com/LUMasterOfAppliedComputing2024S1/COMP639S1_Group_I",
+    Githublink: "https://github.com/Sijia-Hu-1158997/permaculture_club",
     
   },
   {

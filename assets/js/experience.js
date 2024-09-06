@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/nimpression.svg",
     place: "Nimpression Ltd.",
     time: "(Aug, 2024 - present)",
-    desp: "<li>Currently developing a full-stack web app for the logistic company.</li>",
+    desp: "<li>Currently developing a full-stack web application that allows users to obtain quotes and explore the company’s offerings. </li><li>Consulting with company owner to understand and gather user requirements, translating them into a responsive and user-friendly web design.</li><li>Utilizing HTML, Tailwind CSS, JavaScript, Node.js, React, and MongoDB to create an easily maintainable system with seamless front-end and back-end integration.</li>",
   },
   {
     title: "Teacher",

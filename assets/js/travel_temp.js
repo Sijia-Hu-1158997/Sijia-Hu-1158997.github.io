@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       day: "Hiking",
       description: "Hiking is my favorite outdoor activity, allowing me to explore nature's beauty and challenge myself physically. I enjoy the serenity of the mountains, the fresh air, and the breathtaking views. I'm always ready for the next adventure!",
-      background_image: "assets/images/travel/trip1/hike.jpg"
+      background_image: "assets/images/travel/trip1/hike.jpeg"
     },
     {
       day: "Cat",

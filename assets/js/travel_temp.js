@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       day: "Travel",
       description: "Travel fuels my love for planning journeys and embraces my curiosity for the unknown. My most impressive journey was my trip to Japan, where I discovered different ways of living and found my passion for traveling. I eagerly look forward to future exciting adventures around the world.",
-      background_image: "assets/images/travel/trip1/travel.jpg"
+      background_image: "assets/images/travel/trip1/travel.jpeg"
     },
     {
       day: "Hiking",

@@ -5,6 +5,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Full-stack Developer Intern",
+    cardImage: "assets/images/experience-page/nimpression.svg",
+    place: "Nimpression Ltd.",
+    time: "(Aug, 2024 - present)",
+    desp: "<li>Currently developing a full-stack web app for the logistic company.</li>",
+  },
+  {
     title: "Teacher",
     cardImage: "assets/images/experience-page/rb.jpeg",
     place: "Reggio Bambini Private Preschool & Infant Centre",

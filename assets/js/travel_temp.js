@@ -7,12 +7,12 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       day: "Travel",
       description: "Travel fuels my love for planning journeys and embraces my curiosity for the unknown. My most impressive journey was my trip to Japan, where I discovered different ways of living and found my passion for traveling. I eagerly look forward to future exciting adventures around the world.",
-      background_image: "assets/images/travel/trip1/travel.JPG"
+      background_image: "assets/images/travel/trip1/travel.jpg"
     },
     {
       day: "Hiking",
       description: "Hiking is my favorite outdoor activity, allowing me to explore nature's beauty and challenge myself physically. I enjoy the serenity of the mountains, the fresh air, and the breathtaking views. I'm always ready for the next adventure!",
-      background_image: "assets/images/travel/trip1/hike.JPG"
+      background_image: "assets/images/travel/trip1/hike.jpg"
     },
     {
       day: "Cat",

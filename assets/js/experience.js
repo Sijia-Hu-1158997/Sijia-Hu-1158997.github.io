@@ -5,17 +5,24 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Technology Graduate",
+    cardImage: "assets/images/experience-page/bnz.jpeg",
+    place: "Bank of New Zealand",
+    time: "(Feb, 2025 - Present)",
+    desp: "<li>Front-End Development: Develop and deploy web features using React, TypeScript, and JavaScript.</li><li>Communication & Teamwork: Collaborate effectively with team members and contribute to a supportive, productive work environment.</li><li>Continuous Learning: Actively embrace opportunities to learn new tools, technologies, and best practices.</li>",
+  },
+  {
     title: "Full-stack Developer Intern",
     cardImage: "assets/images/experience-page/nimpression.svg",
     place: "Nimpression Ltd.",
-    time: "(Aug, 2024 - present)",
-    desp: "<li>Currently developing a full-stack web application that allows users to obtain quotes and explore the company’s offerings. </li><li>Consulting with company owner to understand and gather user requirements, translating them into a responsive and user-friendly web design.</li><li>Utilizing HTML, Tailwind CSS, JavaScript, Node.js, React, and MongoDB to create an easily maintainable system with seamless front-end and back-end integration.</li>",
+    time: "(Aug, 2024 - Oct, 2024)",
+    desp: "<li>Developed a full-stack web application that allows users to obtain quotes and explore the company’s offerings. </li><li>Consulting with company owner to understand and gather user requirements, translated them into a responsive and user-friendly web design.</li><li>Utilized Tailwind CSS, JavaScript, Node.js, React, and MongoDB to create an easily maintainable system with seamless front-end and back-end integration.</li>",
   },
   {
     title: "Teacher",
     cardImage: "assets/images/experience-page/rb.jpeg",
     place: "Reggio Bambini Private Preschool & Infant Centre",
-    time: "(Aug, 2022 - present)",
+    time: "(Aug, 2022 - Jan, 2025)",
     desp: "<li>Cultivated trusted and respectful relationships with parents and colleagues.</li> <li>Engaged in continuous reflection on team practices, embracing change, actively seeking improvement opportunities, and implementing innovative solutions to boost productivity and effectiveness.</li>",
   },
   {

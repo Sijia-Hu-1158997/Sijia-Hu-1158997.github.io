@@ -16,7 +16,7 @@ const exp = [
     cardImage: "assets/images/experience-page/nimpression.svg",
     place: "Nimpression Ltd.",
     time: "(Aug, 2024 - Oct, 2024)",
-    desp: "<li>Developed a full-stack web application that allows users to obtain quotes and explore the company’s offerings. </li><li>Consulting with company owner to understand and gather user requirements, translated them into a responsive and user-friendly web design.</li><li>Utilized Tailwind CSS, JavaScript, Node.js, React, and MongoDB to create an easily maintainable system with seamless front-end and back-end integration.</li>",
+    desp: "<li>Developed a full-stack web application that allows users to obtain quotes and explore the company’s offerings. </li><li>Consulted with company owner to understand and gather user requirements, translated them into a responsive and user-friendly web design.</li><li>Utilized Tailwind CSS, JavaScript, Node.js, React, and MongoDB to create an easily maintainable system with seamless front-end and back-end integration.</li>",
   },
   {
     title: "Teacher",

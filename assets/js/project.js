@@ -10,7 +10,7 @@ const projects = [
     description: "Intern project. Use React, Node.js, Express, Tailwind, and MongoDB.",
     cardImage: "assets/images/project-page/nimpression.png",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Githublink: "https://github.com/Sijia-Hu-1158997/nimpression_display",
+    Githublink: "https://github.com/chloe-sijia-hu/nimpression_display",
     
   },
   {
@@ -19,7 +19,7 @@ const projects = [
     cardImage: "assets/images/project-page/agri.png",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "http://agrihire.pythonanywhere.com/",
-    Githublink: "https://github.com/Sijia-Hu-1158997/agrihire_shopping_web",
+    Githublink: "https://github.com/chloe-sijia-hu/agrihire_shopping_web",
     
   },
   {
@@ -28,7 +28,7 @@ const projects = [
     cardImage: "assets/images/project-page/permaculture.png",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "http://hexadec.pythonanywhere.com",
-    Githublink: "https://github.com/Sijia-Hu-1158997/permaculture_club",
+    Githublink: "https://github.com/chloe-sijia-hu/permaculture_club",
     
   },
   {
@@ -37,7 +37,7 @@ const projects = [
     cardImage: "assets/images/project-page/bio.png",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "http://husijia1158997.pythonanywhere.com/",
-    Githublink: "https://github.com/Sijia-Hu-1158997/biosecurity",
+    Githublink: "https://github.com/chloe-sijia-hu/biosecurity",
   },
 ];
 
